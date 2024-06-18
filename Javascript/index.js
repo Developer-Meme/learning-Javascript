@@ -12,4 +12,4 @@ window.alert(`Future Nextjs senior developer`)
 is a
 multi-line
 comment
-*/  
+*/ 
