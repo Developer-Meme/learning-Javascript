@@ -13,5 +13,8 @@ is a
 multi-line
 comment
 */ 
+/*To change the content of an Html element i have to select it first 
+then change the text content then set it equal to the text of your choosing
+*/
 document.getElementById("myRuby").textContent=`Hey there!`;
 document.getElementById("myDove") .textContent=`Am Developer Meme`;
