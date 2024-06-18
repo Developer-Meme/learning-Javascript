@@ -23,7 +23,12 @@ the value behaves as if it were the value it contains
 There are 2 ways of using variables 1]Declaration let x; 2]Assignment x-100
 */
 //one variables only has one value it cant be changed only one x or y
-let p;
-x = 100;
 
-console.log(`p`);
+let p;
+p=100;
+
+console.log(p);
+//when put together it becomes let x = 100;
+
+let s = 22;
+console.log(s);
