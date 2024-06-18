@@ -13,3 +13,5 @@ is a
 multi-line
 comment
 */ 
+document.getElementById("myRuby").textContent=`Hey there!`;
+document.getElementById("myDove") .textContent=`Am Developer Meme`;
