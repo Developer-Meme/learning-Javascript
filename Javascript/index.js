@@ -18,3 +18,7 @@ then change the text content then set it equal to the text of your choosing
 */
 document.getElementById("myRuby").textContent=`Hey there!`;
 document.getElementById("myDove") .textContent=`Am Developer Meme`;
+/*A VAriable is a container that stores a value.
+the value behaves as if it were the value it contains
+There are 2 ways of using variables 1]Declaration let x; 2]Assignment x-100
+*/
