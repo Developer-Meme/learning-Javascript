@@ -88,3 +88,5 @@ document.getElementById(`p1`).textContent = fullName;
 document.getElementById(`p2`).textContent = age;
 document.getElementById(`p3`).textContent = `Enrolled: ${isStudent}`;
 */
+
+//Arithmetic Operations= operands (values,variables,etc) and operators (+,-,*,/,%)
