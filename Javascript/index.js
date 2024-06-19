@@ -78,11 +78,13 @@ console.log(`I am a Computer Science Student: ${isStudent}`);
 //we mostly use boolean with if statements to check things
 //for example if someone is online do this and if he/she is'nt do something else
 */
-
+/*
+//Everything ive learnt so far
 let fullName = "Victor Max Meme"
 let age = 22;
 let isStudent = true;
 
 document.getElementById(`p1`).textContent = fullName;
 document.getElementById(`p2`).textContent = age;
-document.getElementById(`p3`).textContent = isStudent;
+document.getElementById(`p3`).textContent = `Enrolled: ${isStudent}`;
+*/
