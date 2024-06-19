@@ -37,6 +37,7 @@ console.log(p);
 let s = 22;
 console.log(s);
 */
+
 //DATE: 19th June 2024
 //DATA TYPES
 //1]Number
@@ -47,6 +48,11 @@ console.log(`I am ${age} years old`);
 console.log(`The price of bread is $${price}`);
 console.log(`My GPA is ${gpa}`);
 //If you need to display the type of datatype you can use the typeof operator before the variable's value
-console.log(typeof age);//the above are all numbers
+console.log(typeof gpa);//the above are all numbers
 
 //2]String-a string is a series of characters
+let firstName = "Victor";
+//the type of datatype is coded after u display the variable if you use it before there will bw an error
+// this error will be displayed -ReferenceError: Cannot access 'firstName' before initialization at index.js:51:9
+//this is because the variable has not been declared yet and the rest of the code wont work
+console.log(typeof firstName);
