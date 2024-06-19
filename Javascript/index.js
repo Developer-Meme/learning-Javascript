@@ -66,6 +66,11 @@ console.log(`My favorite food is ${favoriteFood}`);
 console.log(`My email is ${email}`);
 */
 //3]Boolean- a boolean is a true or false value they are used as flags in my program
-let online = true;
+let online = false;
+let forSale = false;
+let isStudent = true;
 
 console.log(typeof online)
+console.log(`Bro is online: ${online}`);
+console.log(`Am selling my dog: ${forSale}`);
+console.log(`I am a Computer Science Student: ${isStudent}`);
