@@ -39,6 +39,7 @@ console.log(s);
 */
 
 //DATE: 19th June 2024
+/*
 //DATA TYPES
 //1]Number
 let age = 22;
@@ -49,10 +50,22 @@ console.log(`The price of bread is $${price}`);
 console.log(`My GPA is ${gpa}`);
 //If you need to display the type of datatype you can use the typeof operator before the variable's value
 console.log(typeof gpa);//the above are all numbers
-
+*/
+/*
 //2]String-a string is a series of characters
 let firstName = "Victor";
+let favoriteFood = "beef";
+let email = "victor123@gmail.com";
 //the type of datatype is coded after u display the variable if you use it before there will bw an error
 // this error will be displayed -ReferenceError: Cannot access 'firstName' before initialization at index.js:51:9
 //this is because the variable has not been declared yet and the rest of the code wont work
+//strings can contain numbers and special characters but string numbers cant be used in arithmetics
 console.log(typeof firstName);
+console.log(`My name is ${firstName}`);
+console.log(`My favorite food is ${favoriteFood}`);
+console.log(`My email is ${email}`);
+*/
+//3]Boolean- a boolean is a true or false value they are used as flags in my program
+let online = true;
+
+console.log(typeof online)
