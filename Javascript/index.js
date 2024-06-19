@@ -30,6 +30,10 @@ p=100; //this is variable assignment
 
 console.log(p);
 //when put together it becomes let x = 100;
-
+//this is combining declaration and assignment together this is when i know the value
+//example if am using user-input i will assign the value later
 let s = 22;
 console.log(s);
+//this is a constant variable that cant be changed
+const v = 58;
+console.log(v);
