@@ -65,6 +65,7 @@ console.log(`My name is ${firstName}`);
 console.log(`My favorite food is ${favoriteFood}`);
 console.log(`My email is ${email}`);
 */
+/*
 //3]Boolean- a boolean is a true or false value they are used as flags in my program
 let online = false;
 let forSale = false;
@@ -74,3 +75,6 @@ console.log(typeof online)
 console.log(`Bro is online: ${online}`);
 console.log(`Am selling my dog: ${forSale}`);
 console.log(`I am a Computer Science Student: ${isStudent}`);
+//we mostly use boolean with if statements to check things
+//for example if someone is online do this and if he/she is'nt do something else
+*/
