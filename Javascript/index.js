@@ -18,14 +18,15 @@ then change the text content then set it equal to the text of your choosing
 */
 //document.getElementById("myRuby").textContent=`Hey there!`;
 //document.getElementById("myDove") .textContent=`Am Developer Meme`;
-/*A VAriable is a container that stores a value.
+
+/*A VARIABLE is a container that stores a value.
 the value behaves as if it were the value it contains
 There are 2 ways of using variables 1]Declaration let x; 2]Assignment x-100
 */
-//one variables only has one value it cant be changed only one x or y
-
+//one variables only has one value it cant be changed there cant be 2 x ...only one x or y
+//this is variable declaration and once u assign a variable you can give it a value
 let p;
-p=100;
+p=100; //this is variable assignment
 
 console.log(p);
 //when put together it becomes let x = 100;
