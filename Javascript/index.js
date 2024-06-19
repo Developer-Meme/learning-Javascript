@@ -90,3 +90,4 @@ document.getElementById(`p3`).textContent = `Enrolled: ${isStudent}`;
 */
 
 //Arithmetic Operations= operands (values,variables,etc) and operators (+,-,*,/,%)
+//Programming can sometimes involve a lot of maths e.g of 11 = x + 5
