@@ -25,6 +25,7 @@ There are 2 ways of using variables 1]Declaration let x; 2]Assignment x-100
 */
 //one variables only has one value it cant be changed there cant be 2 x ...only one x or y
 //this is variable declaration and once u assign a variable you can give it a value
+/*
 let p;
 p=100; //this is variable assignment
 
@@ -34,6 +35,12 @@ console.log(p);
 //example if am using user-input i will assign the value later
 let s = 22;
 console.log(s);
-//this is a constant variable that cant be changed
-const v = 58;
-console.log(v);
+*/
+//DATA TYPES
+//1]Number
+let age = 22;
+let price = 10.99;
+let gpa = 3.5;
+console.log(`My age is ${age}`);
+console.log(`The price of bread is ${price}`);
+console.log(`My GPA is ${gpa}`);
