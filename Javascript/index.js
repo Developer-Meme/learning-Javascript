@@ -1,5 +1,5 @@
 //learning Javascript from scratch from bro code
-//Date: 18th June 2021
+//Date: 18th June 2024
 /*To output some text i can write
 */
 //console.log(`Developer Meme`)
@@ -7,12 +7,14 @@
 //To create an alert box u write
 //window.alert(`Hello World`)
 //window.alert(`Future Nextjs senior developer`)
-//this is a single line comment
+
+//In Javascript this is a single line comment
 /*this
 is a
 multi-line
 comment
 */ 
+
 /*To change the content of an Html element i have to select it first 
 then change the text content then set it equal to the text of your choosing
 */
@@ -28,7 +30,6 @@ There are 2 ways of using variables 1]Declaration let x; 2]Assignment x-100
 /*
 let p;
 p=100; //this is variable assignment
-
 console.log(p);
 //when put together it becomes let x = 100;
 //this is combining declaration and assignment together this is when i know the value
@@ -36,11 +37,16 @@ console.log(p);
 let s = 22;
 console.log(s);
 */
+//DATE: 19th June 2024
 //DATA TYPES
 //1]Number
 let age = 22;
 let price = 10.99;
 let gpa = 3.5;
-console.log(`My age is ${age}`);
-console.log(`The price of bread is ${price}`);
+console.log(`I am ${age} years old`);
+console.log(`The price of bread is $${price}`);
 console.log(`My GPA is ${gpa}`);
+//If you need to display the type of datatype you can use the typeof operator before the variable's value
+console.log(typeof age);//the above are all numbers
+
+//2]String-a string is a series of characters
